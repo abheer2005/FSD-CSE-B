@@ -57,3 +57,4 @@ async function main() {
 main();
 
 console.log("other application");
+//no .then ladder is created we simply generally call functions as usual better performance better readibility also
